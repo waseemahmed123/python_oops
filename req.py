@@ -22,4 +22,3 @@ for i in range(n):
     s.display()
     s.grade()
     print()
-print("Student Name:",self.name)

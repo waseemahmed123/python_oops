@@ -15,3 +15,7 @@ class SE(Person):
         
 s=SE("Waseem",48,100,10000)
 print(s.name,s.age)
+
+
+
+
